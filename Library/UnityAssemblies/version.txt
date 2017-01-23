@@ -1,0 +1,17 @@
+5.4.1f1:2.3.0.0
+StandaloneWindows
+E:/New folder/Editor/Data/Managed/UnityEngine.dll
+E:/New folder/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+E:/New folder/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll
+E:/New folder/Editor/Data/Managed/UnityEditor.dll
+E:/New folder/Editor/Data/UnityExtensions/Unity/Advertisements/Editor/UnityEditor.Advertisements.dll
+E:/New folder/Editor/Data/UnityExtensions/Unity/EditorTestsRunner/Editor/nunit.framework.dll
+E:/New folder/Editor/Data/UnityExtensions/Unity/EditorTestsRunner/Editor/UnityEditor.EditorTestsRunner.dll
+E:/New folder/Editor/Data/UnityExtensions/Unity/GUISystem/Editor/UnityEditor.UI.dll
+E:/New folder/Editor/Data/UnityExtensions/Unity/Networking/Editor/UnityEditor.Networking.dll
+E:/New folder/Editor/Data/UnityExtensions/Unity/TreeEditor/Editor/UnityEditor.TreeEditor.dll
+E:/New folder/Editor/Data/Managed/UnityEditor.Graphs.dll
+E:/New folder/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+E:/New folder/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+E:/New folder/Editor/Data/PlaybackEngines/windowsstandalonesupport/UnityEditor.WindowsStandalone.Extensions.dll
+C:/Program Files (x86)/Microsoft Visual Studio Tools for Unity/2015/Editor/SyntaxTree.VisualStudio.Unity.Bridge.dll
